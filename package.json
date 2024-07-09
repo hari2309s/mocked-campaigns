@@ -1,6 +1,7 @@
 {
   "name": "mocked-campaigns",
   "version": "0.1.0",
+  "homepage": "https://hari2309s.github.io/mocked-campaigns/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

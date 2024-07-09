@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tech-stack:
+
+    - Reduxjs Toolkit
+    - Material UI
+    - Recharts
+    - uuid
+
 ## Available Scripts
 
 In the project directory, you can run:
